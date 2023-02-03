@@ -1,1 +1,2 @@
-# ast_data606-
+# UMBC Data Science Capstone Project
+**Author**: Jay Wang
