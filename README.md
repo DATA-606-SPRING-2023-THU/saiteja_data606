@@ -1,3 +1,3 @@
 # UMBC Data Science Capstone Project
-**Author**: Jay Wang
+**Author**: Jay Wang\
 **Semester**: Spring2023
