@@ -1,3 +1,3 @@
 # UMBC Data Science Capstone Project
-**Author**: Jay Wang\
+**Author**: Sai Teja Avadhootha\
 **Semester**: Spring2023
