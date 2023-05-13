@@ -48,3 +48,52 @@ This weight can be used to perform numerical comparisons between words
 - Random forest
 - Ada Boost
 
+# SVM
+Support vector machine is a classification algorithm that uses a hyperlane to split between data points of different classes in such a way that it maximizes the margin between them.
+
+# Decision tree
+A decision tree is a type of machine-learning algorithm used for both classification and regression tasks. It involves creating a tree-like model of decisions and their possible consequences. The model is built by recursively splitting the dataset into smaller subsets, based on the value of one of the input features, in a way that maximizes the information gain or minimizes the impurity of the resulting subsets.
+At each internal node of the tree, a decision is made based on the value of the input feature and the tree branches out to the next node until a leaf node is reached, which represents the prediction or classification of the input. Decision trees can handle both categorical and continuous input variables and are easy to interpret and visualize, making them a popular choice for tasks such as predictive modeling, data mining, and pattern recognition.
+
+# Multi-layer perceptron
+Multilayer perceptrons (MLPs) are a type of artificial neural network.
+They consist of multiple layers of interconnected neurons.
+Each neuron uses an activation function to introduce nonlinearity into the network.
+MLPs are trained using an optimization algorithm such as backpropagation.
+They are commonly used for supervised learning tasks such as classification and regression.
+
+# Random forest
+Random Forest is an ensemble learning algorithm.
+It combines multiple decision trees to improve predictive accuracy and reduce overfitting.
+Each tree is trained on a randomly selected subset of the input features and data samples.
+The final prediction is obtained by aggregating the predictions of all the trees.
+Random Forest is widely used for classification and regression tasks in various domains.
+
+# AdaBoost
+AdaBoost (Adaptive Boosting) is a type of ensemble learning algorithm.
+It combines multiple weak classifiers to form a strong classifier.
+During training, each weak classifier focuses on the misclassified samples of the previous classifier.
+The final prediction is obtained by aggregating the predictions of all the weak classifiers. AdaBoost is widely used for classification tasks in various domains.
+
+# Results
+## Confusion matrices
+### SVM
+<img width="500" alt="image" src="https://github.com/asaitej1/saiteja_data606/blob/main/Images/SVM.png">
+
+### Decision tree
+<img width="500" alt="image" src="https://github.com/asaitej1/saiteja_data606/blob/main/Images/Decisiontree.png">
+
+### MLP Classifier
+<img width="500" alt="image" src="https://github.com/asaitej1/saiteja_data606/blob/main/Images/MLP.png">
+
+### Random forest
+<img width="500" alt="image" src="https://github.com/asaitej1/saiteja_data606/blob/main/Images/Decisiontree.png">
+
+### AdaBoost
+<img width="500" alt="image" src="https://github.com/asaitej1/saiteja_data606/blob/main/Images/AdaBoost.png">
+
+- In SMS spam detection, false positives are the most important concern. Moving spam to non-spam may not cause big trouble but moving a non-spam to spam may cause the user to miss out on important information.
+So, we chose Random forest which had false positives as our final model.
+
+# Conclusion
+Using Machine Learning, spam messages from legitimate messages can be identified and classified accurately. The accuracy of the model can be further improved by fine-tuning the parameters. Moreover, this solution could be deployed in an industrial setting as it does not require any human intervention to continuously detect spam messages in real time.
