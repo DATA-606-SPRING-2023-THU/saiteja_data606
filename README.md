@@ -1,5 +1,5 @@
 # SMS Spam detection
 # UMBC Data Science Capstone Project
 **Author**: Sai Teja Avadhootha\
-**Semester**: Spring2023
+**Semester**: Spring2023\
 [capstone.pptx]()
