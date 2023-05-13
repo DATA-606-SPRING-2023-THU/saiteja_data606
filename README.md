@@ -17,8 +17,8 @@ Traditional methods like content-based filtering and headers inspection have ine
 The objective of this project is to try and experiment with different ML models to perform spam detection and come up with a model that can classify messages into spam and no spam.
 
 # Dataset
-The dataset used in this project is a Kaggle dataset which contains a combination of spam and ham messages.
-[Dataset Link](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset)
+The dataset used in this project is a Kaggle dataset which contains a combination of spam and ham messages.\
+[Dataset Link](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset)\
 It is of 503.66Kilo bytes and contains text messages and their label.
 
 # Unit of analysis
