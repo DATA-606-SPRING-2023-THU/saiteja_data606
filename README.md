@@ -87,7 +87,7 @@ The final prediction is obtained by aggregating the predictions of all the weak 
 <img width="500" alt="image" src="https://github.com/asaitej1/saiteja_data606/blob/main/Images/MLP.png">
 
 ### Random forest
-<img width="500" alt="image" src="https://github.com/asaitej1/saiteja_data606/blob/main/Images/Decisiontree.png">
+<img width="500" alt="image" src="https://github.com/asaitej1/saiteja_data606/blob/main/Images/Randomforest.png">
 
 ### AdaBoost
 <img width="500" alt="image" src="https://github.com/asaitej1/saiteja_data606/blob/main/Images/AdaBoost.png">
