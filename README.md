@@ -26,3 +26,6 @@ The unit of analysis is a single text message and 5169 such units are used.
 
 # Exploratory Data analysis
 
+![Image](https://github.com/asaitej1/saiteja_data606/blob/main/Images/Image1.png)
+
+
