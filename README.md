@@ -6,7 +6,7 @@
 [Youtube Link]()\
 [capstone.ipynb](https://github.com/asaitej1/saiteja_data606/blob/main/src/sms_spam_detection_(final1).ipynb)
 
-#Introduction:
+#Introduction
 Spam or unsolicited bulk messages are sent out by companies, scammers, and other malicious actors for various purposes. 
 Identifying and discarding these frequently taking up space in communication mediums like SMS is necessary.
 As the SMS service is getting cheaper, the usage of SMS has been increasing rapidly. Almost all parts of the world are able to use the SMS service. This made SMS a great medium for spammers to exploit. 
