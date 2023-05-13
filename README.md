@@ -29,7 +29,7 @@ The unit of analysis is a single text message and 5169 such units are used.
 <img width="500" alt="image" src="https://github.com/asaitej1/saiteja_data606/blob/main/Images/Image1.png">
 In the above graph, we can see the distribution of ham and spam messages in the dataset. We can see that the data is a bit imbalance and ham messages are present more in number than ham messages.
 
-<img width="500" alt="image" src="https://github.com/asaitej1/saiteja_data606/blob/main/Images/Image2.png">
+<img width="800" alt="image" src="https://github.com/asaitej1/saiteja_data606/blob/main/Images/Image2.png">
 In the above figure, we can see that most of the sentences are less than 200 characters or 30 words in size. So, we can perform classification using simple ML models like SVM etc.
 
 <img width="500" alt="image" src="https://github.com/asaitej1/saiteja_data606/blob/main/Images/Mostusedwords.png">
