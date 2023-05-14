@@ -3,7 +3,7 @@
 **Author**: Sai Teja Avadhootha\
 **Semester**: Spring2023\
 [capstone.pptx](https://github.com/asaitej1/saiteja_data606/blob/main/docs/SMS%20Spam%20detection.pptx)\
-[Youtube Link]()\
+[Youtube Link](https://youtu.be/fsltH2BD6_M)\
 [capstone.ipynb](https://github.com/asaitej1/saiteja_data606/blob/main/src/sms_spam_detection_(final1).ipynb)
 
 # Introduction
